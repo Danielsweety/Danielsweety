@@ -27,7 +27,7 @@
 
 <hr>
 
-***Take a look at my repositories and let's get in touch!***
+#### Take a look at my repositories and let's get in touch!***
 <code herf=""><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></code>
 <code herf=""><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></code>
 <code herf=""><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></code>
