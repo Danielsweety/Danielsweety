@@ -25,10 +25,9 @@
 <code><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/linux.png" alt="Linux" title="Linux"></code>
 
-<hr>
+***
 
 #### Take a look at my repositories and let's get in touch!
-
 <a href= "https://www.baidu.com/"><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/wechat.png" /></a>
-<a href= "https://www.baidu.com/"><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/twitter.png"/>
+<a href= "https://www.baidu.com/"><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/twitter.png"/></a>
 
