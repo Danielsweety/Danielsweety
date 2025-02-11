@@ -28,8 +28,8 @@
 <hr>
 
 ***Take a look at my repositories and let's get in touch!***
-<a href= ""><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= ""><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= ""><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= ""><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<code herf=""><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></code>
+<code herf=""><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></code>
+<code herf=""><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></code>
+<code herf=""><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></code>
 
