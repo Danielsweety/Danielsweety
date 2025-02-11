@@ -29,6 +29,6 @@
 
 #### Take a look at my repositories and let's get in touch!
 
-<img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/wechat.png" />
+<a href= "www.baidu.com"><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/wechat.png" /></a>
 <img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/twitter.png"/>
 
