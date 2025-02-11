@@ -26,6 +26,14 @@
 <code><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/linux.png" alt="Linux" title="Linux"></code>
 
 <hr>
-#### Take a look at my repositories and let's get in touch!
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= ""><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= ""><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= ""><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= ""><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
 
 <hr>
