@@ -26,6 +26,6 @@
 <code><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/linux.png" alt="Linux" title="Linux"></code>
 
 <hr>
-
+#### Take a look at my repositories and let's get in touch!
 
 <hr>
