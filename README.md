@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/Danielsweety/Danielsweety/blob/main/icon/header_.png)
+![](https://github.com/Danielsweety/Danielsweety/blob/main/icon/header_white.png)
  
 
 * 🧐   Interested in python and c++.
