@@ -29,6 +29,6 @@
 
 #### Take a look at my repositories and let's get in touch!
 <p>
-<a herf="www.baidu.com"><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/wechat.png"/></a>
-<a herf="www.baidu.com"><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/twitter.png"/></a>
+<a herf="https://www.baidu.com"><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/wechat.png"/></a>
+<a herf="https://www.baidu.com"><img height="20" src="https://github.com/Danielsweety/Danielsweety/blob/main/icon/twitter.png"/></a>
 </p>
